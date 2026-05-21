@@ -1,10 +1,9 @@
 package main
 
 import (
-    "fmt"
-    "myproject/employee"
-    "myproject/manager"
-    "myproject/director"
+    "github.com/pavellakishik/go-company-structure/employee"
+    "github.com/pavellakishik/go-company-structure/manager"
+    "github.com/pavellakishik/go-company-structure/director"
 )
 
 func showBossActions(boss manager.Boss, name string) {

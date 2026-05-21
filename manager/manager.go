@@ -2,7 +2,7 @@ package manager
 
 import (
     "fmt"
-    "myproject/employee"  
+    "github.com/pavellakishik/go-company-structure/employee" 
 )
 
 type Boss interface {

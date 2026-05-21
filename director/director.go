@@ -2,7 +2,7 @@ package director
 
 import (
     "fmt"
-    "myproject/manager" 
+    "github.com/pavellakishik/go-company-structure/manager"
 )
 
 type Director struct {
