@@ -1,3 +1,3 @@
-module github.com/pavellakishik/go-company-structure/employee
+module myproject/employee
 
 go 1.22.2
